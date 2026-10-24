@@ -294,10 +294,6 @@ You can help by:
 
 Please keep contributions focused, include tests for behavioral changes, and document the limitations of new safeguards.
 
-## License
-
-[Add your chosen open-source license here and include the corresponding `LICENSE` file.]
-
 ## Acknowledgments
 
 LazyRepo was built for the Hacktoberfest Open-Source AI Challenge, Week 3: **Slow and Steady**.
